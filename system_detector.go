@@ -1,7 +1,6 @@
 package systemDetector
 
 import (
-	"fmt"
 	"io/ioutil"
 	"os"
 	"regexp"
